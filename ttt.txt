@@ -1,0 +1,1 @@
+{"Status":{"StateValue":"00","StateID":"00","State":"M00","StateDesc":"中文"},"mapdata":{"StoreSerialNoDefault":"A901204","FinancialAccount":"YT201610241404402a","UserName":"78","Token":"b989df0c-ac46-43f8-b8e6-88ab7eef9416","UserId":"jms_901004","StoreSerialNameDefault":"78"}}
